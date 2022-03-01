@@ -9,7 +9,7 @@ name: BVer
 description: Imaginative Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://online-asset.s3.ap-northeast-2.amazonaws.com/logo_W.png
+avatar: "images/logo_W.png"
 
 #
 # Flags below are optional
